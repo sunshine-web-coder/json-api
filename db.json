@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "23e8ee52-513e-41a5-8c00-4db4711fd73b",
+      "username": "kunle",
+      "password": "kunle1"
+    },
+    {
+      "id": "c5474841-8563-4e5d-bc60-e4afeffb6fef",
+      "username": "wale",
+      "password": "wale2"
+    }
+  ]
+}
